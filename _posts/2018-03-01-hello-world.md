@@ -6,7 +6,7 @@ picture: blog1.jpg
 label_default: "paletas" 
 label_primary: "paletas de agua"
 label_success: "fruta natural"
-label_info: "sabores"
+label_info: "sabores unicos"
 label_warning: "refrescante"
 label_danger: "delicioso"
 ---
